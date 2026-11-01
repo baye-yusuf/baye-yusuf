@@ -1,92 +1,73 @@
 # Ibrahim Baye Yusuf
 
-### Cybersecurity Student · Software Developer · Founder, Byvant Solutions Ltd
+**Cybersecurity Student | Software Developer**
 
-Cybersecurity undergraduate focused on software development, application security, network infrastructure, and building practical technology solutions.
+I am a Cybersecurity student and software developer interested in building practical software solutions, understanding security vulnerabilities, and developing systems that solve real-world problems.
 
-I work across software engineering and cybersecurity, with an interest in developing secure applications, understanding complex systems, and creating technology that solves real-world problems.
+I enjoy working across software development, cybersecurity, networking, and database technologies, with a focus on creating secure, reliable, and user-friendly applications.
 
-- Cybersecurity and network security
-- Backend development and database systems
-- Business software and SaaS development
-- Cloud infrastructure and application security
-- Building products through Byvant Solutions Ltd
+## About Me
 
----
+- Studying Cybersecurity at Khalifa Isyaku Rabi'u University.
+- Interested in software engineering and application security.
+- Building practical web applications and digital products.
+- Exploring network security, system administration, and secure software development.
+- Continuously learning and improving my technical skills.
 
-## Featured Projects
+## Selected Projects
 
-### Byvant Stock
-Business management software for pharmacies and supermarkets, covering inventory, sales, expiry monitoring, and accounting workflows.
+### Zakat Calculator
 
-**Stack:** Python · Flask · PostgreSQL
+A practical web application designed to help users calculate their Zakat obligations accurately and conveniently.
+
+**Live Platform:** [Visit Zakat Calculator](https://zakat-calculator-5oj.pages.dev/)
 
 ### RIVA Risk Check
-A risk-screening platform designed to help users identify potential warning signs before making online payments.
 
-**Stack:** Python · Web Development · Cloud Infrastructure
+A digital risk-screening platform designed to help users identify potential scam indicators and suspicious details before making payments.
 
-[Live Application](https://rivariskcheck.onrender.com)
+**Live Platform:** [Visit RIVA](https://rivariskcheck.onrender.com)
 
-### Waqf Accounting System
-A web-based accounting solution designed to support financial management and record keeping.
+## Technical Skills
 
-[Live Application](https://waqf-accounting-system.netlify.app/)
+**Programming & Web Development**
+- Python
+- JavaScript
+- HTML5
+- CSS3
 
----
+**Frameworks & Databases**
+- Flask
+- PostgreSQL
 
-## Languages & Technologies
-
-**Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cybersecurity & Networking**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
----
+**Tools & Platforms**
+- Git & GitHub
+- Visual Studio Code
+- Linux
+- Cisco Packet Tracer
+- VirtualBox
 
 ## Areas of Interest
 
+- Cybersecurity
 - Application Security
 - Network Security
-- Ethical Hacking
-- Backend Engineering
-- Cloud Computing
-- Secure System Architecture
-- Database Design
+- Secure Software Development
+- Web Application Development
+- Database Management
+- Information Security
+
+## Currently Learning
+
+- Advanced cybersecurity concepts
+- Secure application architecture
+- Network security and infrastructure
+- Software engineering practices
+
+## Connect With Me
+
+- **GitHub:** [@baye-yusuf](https://github.com/baye-yusuf)
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baye-yusuf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baye-yusuf&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/baye-yusuf/baye-yusuf/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<p align="center">
-  <i>Learning continuously. Building intentionally. Securing intelligently.</i>
-</p>
+*Building secure systems. Developing practical solutions. Learning continuously.*
